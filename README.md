@@ -18,5 +18,3 @@
 <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/></a>
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/></a>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetgabriel&hide=javascript,html&theme=dark)
